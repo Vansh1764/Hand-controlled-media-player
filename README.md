@@ -11,3 +11,9 @@ Using below libraries :
 - MediaPipe
 - PyautoGUI
 - Time
+
+Video example : 
+
+https://github.com/Vansh1764/Hand-controlled-media-player/assets/113934718/1fb6b60a-2403-418d-89ea-32a5f4e591f6
+
+
